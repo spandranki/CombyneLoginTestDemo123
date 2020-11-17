@@ -1,6 +1,6 @@
 # CombyneLoginTestDemo123
-This is a Maven Project
-Test cases are in the file TestCases.xlsx. There are 3 sheets in the excel sheet. 1 for requirements, 2 for automation/manual cases, 3 for additional cases i.e Negative cases
+This is a Maven Project.
+Test cases are in the file TestCases.xlsx. There are 3 sheets in the excel sheet. 1 for requirements, 2 for automation/manual cases, 3 for additional cases i.e Negative cases.
 Steps to  Run on your System. 
 Download the zip file. 
 Unzip this file. 
